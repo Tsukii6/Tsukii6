@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on small projects.
 - 👨🏽‍💻 I build with: `HTML`, `CSS`, `JavaScript`, `React JS` ...
-- 🌱 All of my projects are available at my GitHub. Soon you'll get to see more amazing Stuff!
+- 🌱 All of my projects are available on my GitHub. Soon you'll get to see more amazing Stuff!
 
 #
 
