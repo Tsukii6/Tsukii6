@@ -1,4 +1,4 @@
-## Haro everynyan!👋
+## 👋
 
 - 🔭 I'm currently working on small projects.
 - 👨🏽‍💻 I build with: `HTML`, `CSS`, `JavaScript`, `React JS` ...
